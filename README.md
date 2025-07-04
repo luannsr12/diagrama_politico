@@ -32,5 +32,3 @@ O app permite arrastar e soltar **ícones de ideologias ou representantes (logos
 4. Cada quadrante do diagrama tem uma **cor distinta** e está dividido por um grid com linhas para referência visual.
 5. Os títulos dos eixos ajudam o usuário a entender o contexto político de cada posição.
 6. O usuário também pode clicar em uma logo para removê-la e devolvê-la à sidebar.
-
----
