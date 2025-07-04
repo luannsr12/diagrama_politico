@@ -2,4 +2,4 @@
 
 React + Vite
 
-<img src="/screenshot/image.png" />
+<img src="/screenshot/diagrama.png" />
